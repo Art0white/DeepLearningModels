@@ -1,3 +1,9 @@
+#
+# Author: Lovsog
+# Date: 2021.11.14 20:32
+# Title: SingleLayerNeuralNetwork (运用TensorFlow创建一个单层神经网络)
+#
+
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 import numpy as np

@@ -1,3 +1,9 @@
+#
+# Author: Lovsog
+# Date: 2021.11.14 21:00
+# Title: SingleLayerNeuralNetwork_2 (运用TensorFlow创建一个单层神经网络)
+#
+
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 
